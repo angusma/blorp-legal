@@ -29,7 +29,7 @@ code, except where the law expressly permits it.
   and the whole story are available to everyone at no cost.
 - Practice uses a hearts system: wrong answers cost a heart, and hearts
   refill on their own over time. Reviewing your mistakes never costs
-  hearts.
+  hearts. New installs get unlimited hearts for their first 10 days.
 - Premium is an auto-renewing yearly subscription with a single benefit:
   infinite hearts, so you are never asked to wait for a refill. The exact
   price is shown in the app before you buy. Premium does not unlock any
