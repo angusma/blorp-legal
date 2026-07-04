@@ -23,14 +23,17 @@ on devices you own or control, for your own learning. You may not copy,
 sell, rent, redistribute, reverse-engineer or extract the app's content or
 code, except where the law expressly permits it.
 
-## 3. Free trial, free plan and Premium
+## 3. Free app and Premium hearts
 
-- New installs get a free trial with full access for 10 days.
-- After the trial, a free plan remains: a limited number of exercises per
-  topic per day and one road lesson per day. Reviewing your mistakes is
-  always free.
-- Premium is an auto-renewing yearly subscription that removes those
-  limits. The exact price is shown in the app before you buy.
+- Blorp is free: every language, every exercise topic, the lesson road
+  and the whole story are available to everyone at no cost.
+- Practice uses a hearts system: wrong answers cost a heart, and hearts
+  refill on their own over time. Reviewing your mistakes never costs
+  hearts.
+- Premium is an auto-renewing yearly subscription with a single benefit:
+  infinite hearts, so you are never asked to wait for a refill. The exact
+  price is shown in the app before you buy. Premium does not unlock any
+  content — there is nothing content-wise to unlock.
 
 ## 4. Subscription terms
 
